@@ -1,6 +1,9 @@
 package be.weloveanimals.animalFarm.barn;
 
+import be.weloveanimals.animalFarm.animals.Animal;
+
 import java.util.ArrayList;
+import java.util.List;
 
 public class Barn {
     private int id;
