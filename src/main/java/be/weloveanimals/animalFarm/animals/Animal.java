@@ -1,5 +1,7 @@
 package be.weloveanimals.animalFarm.animals;
 
+import be.weloveanimals.animalFarm.foods.Food;
+
 public interface Animal {
     String getName();
     void setName(String name);
