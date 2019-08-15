@@ -1,6 +1,7 @@
 package be.weloveanimals.animalFarm.barn;
 
 import be.weloveanimals.animalFarm.animals.Animal;
+import be.weloveanimals.animalFarm.feeders.Feeder;
 
 import java.util.ArrayList;
 import java.util.List;
